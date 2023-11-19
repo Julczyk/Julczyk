@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a CS student, aspiring programmer and military enthusiast currently based in Kraków (Cracov), Poland.
 <!--
 **Julczyk/Julczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
